@@ -3,3 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+#container {
+  background: gray;
+  width: 360px;
+  margin: 0 auto;
+}
